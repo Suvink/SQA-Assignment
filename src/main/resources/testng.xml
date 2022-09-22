@@ -14,6 +14,7 @@
           <class name = "com.actitime.qa.testcases.ReportsPageTest" />
           <class name = "com.actitime.qa.testcases.TasksPageTest" />
           <class name = "com.actitime.qa.testcases.UsersPageTest" />
+          <class name = "com.actitime.qa.testcases.AssignmentTest" />
       </classes>
    </test>
 
